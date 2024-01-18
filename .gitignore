@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+api_keys.py
+Vice_Case_Study_Solns.docx
 __pycache__/
 *.py[cod]
 *$py.class
